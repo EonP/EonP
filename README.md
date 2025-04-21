@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 #### 🧠 Languages & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-000000?style=for-the-badge&logoColor=white&labelColor=6A0DAD)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=white&labelColor=black)
