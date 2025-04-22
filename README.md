@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px">, I'm Leon
+<h1 align="center">Hi 👋 I'm Leon</h1>
 
----
+# 💫 About Me:
+I'm a third-year Computer Science student at EPFL (École Polytechnique Fédérale de Lausanne).
+
+I am currently working on [**AlgoHub**](https://github.com/AlgorithmsAcademy/AlgoHub) — an educational tool to document algorithms with structured templates, aiming to help people easily understand core algorithmic concepts and prepare for technical interviews.
 
 # 💻 Tech Stack:
 ### Languages
