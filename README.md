@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋 I'm Leon</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px"> I'm Leon</h1>
 
 # 💫 About Me:
 I'm a third-year Computer Science student at EPFL (École Polytechnique Fédérale de Lausanne).
