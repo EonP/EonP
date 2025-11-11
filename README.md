@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px"> I'm Leon</h1>
 
-# 💫 About Me:
-I'm a third-year Computer Science student at EPFL (École Polytechnique Fédérale de Lausanne).
+# About Me:
+EPFL graduate.
 
-I am currently working on [**AlgoHub**](https://github.com/AlgorithmsAcademy/AlgoHub) — an educational tool to document algorithms with structured templates, aiming to help people easily understand core algorithmic concepts and prepare for technical interviews.
+Currently working on [**AlgoHub**](https://github.com/AlgorithmsAcademy/AlgoHub) — an educational tool to document algorithms with structured templates, aiming to help people easily understand core algorithmic concepts and prepare for technical interviews.
 
-# 💻 Tech Stack:
+# Tech Stack:
 ### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
