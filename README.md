@@ -4,9 +4,6 @@
   MSc Computer Science @ ETH Zurich · Data Management Systems & Machine Learning
 </p>
 
-## Current projects - open to contributions!
-[**wildsearch**](https://github.com/EonP/wildsearch) : search any photo folder from the command line by describing what's in it
-
 ## Tech stack
 
 **Languages**
